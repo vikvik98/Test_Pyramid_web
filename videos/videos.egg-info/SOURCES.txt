@@ -4,6 +4,7 @@ README.txt
 development.ini
 production.ini
 pytest.ini
+requirements.txt
 setup.py
 videos/__init__.py
 videos/tests.py
