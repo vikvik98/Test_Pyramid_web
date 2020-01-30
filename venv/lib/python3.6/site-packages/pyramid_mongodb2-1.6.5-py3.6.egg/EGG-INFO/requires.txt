@@ -1,0 +1,8 @@
+pyramid
+pyramid-debugtoolbar
+pymongo
+
+[testing]
+WebTest
+nose
+coverage

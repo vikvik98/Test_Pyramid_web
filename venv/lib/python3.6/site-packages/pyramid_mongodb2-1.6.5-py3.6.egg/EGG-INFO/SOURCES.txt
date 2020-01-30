@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+pyramid_mongodb2/__init__.py
+pyramid_mongodb2/mongo_toolbar.py
+pyramid_mongodb2.egg-info/PKG-INFO
+pyramid_mongodb2.egg-info/SOURCES.txt
+pyramid_mongodb2.egg-info/dependency_links.txt
+pyramid_mongodb2.egg-info/not-zip-safe
+pyramid_mongodb2.egg-info/requires.txt
+pyramid_mongodb2.egg-info/top_level.txt
+pyramid_mongodb2/templates/mongo.mako
