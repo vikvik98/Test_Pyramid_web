@@ -49,8 +49,6 @@ tempita==0.5.3.dev0
 translationstring==1.3
 Twisted==19.10.0
 venusian==3.0.0
-# Editable install with no version control (video==0.0)
--e c:\users\vinic\desktop\so_test\video
 w3lib==1.21.0
 waitress==1.4.2
 weberror==0.13.1
