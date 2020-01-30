@@ -1,0 +1,3 @@
+[run]
+source = videos
+omit = videos/test*

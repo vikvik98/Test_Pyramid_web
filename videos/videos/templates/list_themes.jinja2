@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>List Themes</title>
+</head>
+<body>
+
+<h1 align="center">Themes</h1>
+<h5><a href="/">Home</a></h5>
+
+<ul>
+    {% if themes %}
+        {% for item in themes %}
+
+            <li>Theme: {{ item._id }} <br> score: {{ item.sum }}</li>
+
+        {% endfor %}
+    {% endif %}
+</ul>
+
+
+</body>
+</html>
